@@ -10,7 +10,7 @@ Mercury is a free and open sourced Roblox UI library.
 
 ## Loadstring
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/master/src.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sinny999s/mercury-lib/master/src.lua"))()
 ```
 
 ## Features:
@@ -32,7 +32,7 @@ Created by [Deity#0228] and [Abstract#8007]
 
 ### Get the Library
 ```lua
-local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/sinny999s/mercury-lib/master/src.lua"))()
+local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/master/src.lua"))()
 ```
 
 ### Create the GUI
